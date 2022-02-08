@@ -14,4 +14,5 @@
 ● Input과 이전 state를 선형 변환하여 결합한 후 activation에 적용한다.  
 
 ● Activation function은 주로 tanh를 사용한다.  
+
 <img src="https://user-images.githubusercontent.com/98728682/152931989-1d46dbc6-7fdb-47d9-9e31-ffb054b8a3b4.png" width="500" height="50">
