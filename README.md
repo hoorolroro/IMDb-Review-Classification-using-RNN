@@ -17,6 +17,6 @@
 
 <img src="https://user-images.githubusercontent.com/98728682/152931989-1d46dbc6-7fdb-47d9-9e31-ffb054b8a3b4.png" width="500" height="50">  
 <img src="https://user-images.githubusercontent.com/98728682/152933731-75554846-4337-4992-a439-8237bd5eb862.png">  
-● IMDb 평점 예측 문제는 다 대 일(many-to-one)모델이다.
+● IMDb 평점 예측 문제는 다 대 일(many-to-one)모델이다.  
 
 ● 여러 Input값을 바탕으로 하나의 출력값을 얻는 구조이다.
