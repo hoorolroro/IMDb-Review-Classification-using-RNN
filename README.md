@@ -8,4 +8,5 @@
 <img src="https://user-images.githubusercontent.com/98728682/152928257-b2d77a00-25a9-4e63-a5e9-025033522c88.png" width="150" height="230"><img src="https://user-images.githubusercontent.com/98728682/152928367-fdc197f5-8728-409c-bcc3-3222f1458136.png" width="480" height="230">  
 
 ● RNN은 추가된 input(xt)과 과거의 정보(ht-1)를 조합해, 새로운 정보(ht)를 생성하는 구조이다.  
+
 ● Task에 따라서 yt가 필요한 경우와 필요하지 않은 경우가 있다.
