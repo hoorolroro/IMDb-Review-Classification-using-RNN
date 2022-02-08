@@ -2,4 +2,4 @@
 ## RNN(Recurrent neural network)  
 ● 이미지보다는 문장과 같은 sequential data에 강하다.  
 
-<img src="https://user-images.githubusercontent.com/98728682/152925435-d06a59a8-08da-478f-866b-ead91b657a84.jpg" width="320" height="250">
+<img src="https://user-images.githubusercontent.com/98728682/152925435-d06a59a8-08da-478f-866b-ead91b657a84.jpg">
