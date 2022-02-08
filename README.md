@@ -15,4 +15,5 @@
 
 ● Activation function은 주로 tanh를 사용한다.  
 
-<img src="https://user-images.githubusercontent.com/98728682/152931989-1d46dbc6-7fdb-47d9-9e31-ffb054b8a3b4.png" width="500" height="50">
+<img src="https://user-images.githubusercontent.com/98728682/152931989-1d46dbc6-7fdb-47d9-9e31-ffb054b8a3b4.png" width="500" height="50">  
+<img src="https://user-images.githubusercontent.com/98728682/152933731-75554846-4337-4992-a439-8237bd5eb862.png">
