@@ -22,7 +22,7 @@
 \
 ● 여러 Input값을 바탕으로 하나의 출력값을 얻는 구조  
 ## 프로그램 구현  
-● IMDb 데이터셋을 이용해 구글의 word2vec을 목적(영화리뷰 평점 예측)에 맞게 pre-train 시킨다.  
+● IMDb 데이터셋을 사용해 구글의 word2vec을 목적(영화리뷰 평점 예측)에 맞게 pre-train 시킨다.  
 
 ● pre-train 시킨 weight들을 바탕으로 RNN 모델을 학습시킨다.  
 
