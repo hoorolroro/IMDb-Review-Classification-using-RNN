@@ -21,6 +21,16 @@
   
 \
 ● 여러 Input값을 바탕으로 하나의 출력값을 얻는 구조  
+
+## Hyper-parameter  
+
+|num_classes|num_epoch|evaluate_per_steps|learning_rate|batch_size|drop_prob|weight_decay_lambda|embedding_dim|hidden_size|best_accuracy|  
+|---|---|---|---|---|---|---|---|---|---|  
+|2|5|100|0.001|0.5|50|5e-4|300|200|76.6%|  
+|2|5|100|0.001|0.4|50|5e-4|300|200|79.42%|
+|2|5|100|0.001|0.4|50|5e-4|300|200|87.0%|
+
+
 ## 프로그램 구현  
 ● IMDb 데이터셋을 사용해 구글의 word2vec을 목적(영화리뷰 평점 예측)에 맞게끔 pre-train 시킨다.  
 
